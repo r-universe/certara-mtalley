@@ -1,5 +1,73 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/certara-mtalley/certara-mtalley.r-universe.dev
 	branch = HEAD
+[submodule "R6"]
+	path = R6
+	url = https://github.com/r-lib/R6
+[submodule "brio"]
+	path = brio
+	url = https://github.com/r-lib/brio
+[submodule "cli"]
+	path = cli
+	url = https://github.com/r-lib/cli
+[submodule "curl"]
+	path = curl
+	url = https://jeroen.r-universe.dev/curl
+[submodule "digest"]
+	path = digest
+	url = https://github.com/eddelbuettel/digest
+[submodule "evaluate"]
+	path = evaluate
+	url = https://github.com/r-lib/evaluate
+[submodule "fastmap"]
+	path = fastmap
+	url = https://github.com/r-lib/fastmap
+[submodule "glue"]
+	path = glue
+	url = https://github.com/tidyverse/glue
+[submodule "htmltools"]
+	path = htmltools
+	url = https://github.com/rstudio/htmltools
+[submodule "httr2"]
+	path = httr2
+	url = https://github.com/r-lib/httr2
+[submodule "jsonlite"]
+	path = jsonlite
+	url = https://jeroen.r-universe.dev/jsonlite
+[submodule "knitr"]
+	path = knitr
+	url = https://yihui.org/knitr
+[submodule "lifecycle"]
+	path = lifecycle
+	url = https://github.com/r-lib/lifecycle
+[submodule "magrittr"]
+	path = magrittr
+	url = https://magrittr.tidyverse.org
+[submodule "pkgload"]
+	path = pkgload
+	url = https://github.com/r-lib/pkgload
+[submodule "rappdirs"]
+	path = rappdirs
+	url = https://github.com/r-lib/rappdirs
+[submodule "rlang"]
+	path = rlang
+	url = https://github.com/r-lib/rlang
+[submodule "rmarkdown"]
+	path = rmarkdown
+	url = https://github.com/rstudio/rmarkdown
+[submodule "rstudioapi"]
+	path = rstudioapi
+	url = https://rstudio.github.io/rstudioapi
+[submodule "testthat"]
+	path = testthat
+	url = https://github.com/r-lib/testthat
+[submodule "universe"]
+	path = universe
+	url = https://docs.ropensci.org/universe
+[submodule "xfun"]
+	path = xfun
+	url = https://github.com/yihui/xfun
+[submodule "yaml"]
+	path = yaml
+	url = https://github.com/vubiostat/r-yaml
